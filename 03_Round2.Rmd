@@ -1,0 +1,41 @@
+# Round 2
+
+## Results
+
+Results             | Table
+:-------------------------:|:-------------------------:
+![](images/wk2Res.png)  |  ![](images/wk2Table.png)
+
+## Best game
+
+Stoke 1 v 4 Manchester City
+
+
+```{r highlights2, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+embed_youtube("zn61wxHhSV0")
+```
+
+* Last season, Man City won their first five encounters but for the rest of the campaign
+there was little to choose between them and their hosts in terms of points, although their goal difference was
+markedly superior
+
+<img align="center" src="images/wk2a.png">
+
+* Nolito scored 2 goals as a sub in only his second PL game. But he failed to upstage Aguero -  also scorer of a brace this week - who notched two in his very first appearance (as a sub) against Swansea five years ago
+
+
+## Biggest Upset
+
+Burnley 2 v 0 Liverpool
+
+The up and down performances that characterized last year's season beset Liverpool again, in spite of more than 80% possession. Most unforgiveable? Allowing 'striker', Sam Vokes, to score his first goal after 27 barren PL appearances
+
+<img align="center" src="images/wk2b.png">
+
+## Chart of Week
+
+With Middlesboro replacing Newcastle, the North East maintain two teams in the tier one but they have never had more than one figure in the top ten of the Premier League
+
+<img align="center" src="images/wk2c.png">
+

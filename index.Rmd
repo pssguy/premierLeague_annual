@@ -1,0 +1,38 @@
+---
+title: "Premier League Annual"
+author: "Andrew Clark"
+# date: "July 28, 2016"
+output: bookdown::gitbook
+  
+site: bookdown::bookdown_site
+# cover-image: images/cover_fixed.png
+---
+
+```{r libraries}
+
+library(vembedr)
+
+```
+# Cover Image {-}
+
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html')}
+# knitr::include_graphics('images/cover_fixed.png')
+```
+
+# Introduction {-}
+
+
+This is an 'on the fly' annual based on the 2016/17 Premier League season, updated weekly with charts, tables, highlight videos and trivia related to the games played.
+    
+ It is a companion volume to the, interactive,
+[Premier League Web site](https://mytinyshinys.shinyapps.io/premierLeague/)
+
+All information is unofficial
+
+# Author {-}
+
+
+[Andrew Clark](http://www.twitter.com/pssguy) is an independent R developer based in North Vancouver
+He has, for many years, supplied statistical sports data on the web but has recently branched out into many different areas involving  interactive web apps. Introductions to his work can be found under the
+[mytinyshinys umbrella](https://mytinyshinys.shinyapps.io/dashboard/) and a set of recent [flexdashboards](https://beta.rstudioconnect.com/aclark/flexDashBoard/)
+

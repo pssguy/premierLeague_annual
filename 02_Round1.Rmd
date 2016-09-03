@@ -1,0 +1,42 @@
+# Round 1
+
+## Results
+
+
+Results             | Table
+:-------------------------:|:-------------------------:
+![](images/wk1Res.png)  |  ![](images/wk1Table.png)
+
+## Best game
+
+Arsenal 3 v 4 Liverpool
+
+```{r highlights1, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+embed_youtube("PNWyqO0ubtw")
+```
+
+The absence of Mertesacker, Paulista and Koscielny for Arsenal proved more important than the presence of Mignolet and Moreno for Liverpool
+
+* Arsenal joined Everton and QPR as teams that have conceded 4 goals at home in the first game of a Premier League season on two occasions
+* Walcott has now scored at least one goal 
+in 10 succesive seasons, only the 39th player to have done so. He joins illuminaries such as Kieran Richardson and Sami Hyppia on that mark
+
+<img align="center" src="images/wk1b.png">
+
+## Biggest Upset
+
+Hull v Leicester
+
+Managerless and, apparantly rudderless, Hull upset the champions Leicester
+
+
+## Chart of Week
+
+"It's only the first game"
+
+Except that in 14 of the previous 24 years the team leading after the first game has ended up in one of the desirable top four Champions League positions. And odds on that happening again as Manchester United lead the table
+
+<img align="center" src="images/wk1a.png">
+
+On the other hand, Bolton immediately after defeating QPR 4-0 (see above) went on a six game losing streak and now reside in Division 1 (3rd tier, if you are unfamiliaer with English counting)
