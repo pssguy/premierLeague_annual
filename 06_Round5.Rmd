@@ -1,0 +1,59 @@
+# Round 5 {-}
+
+## Results {-}
+
+
+Results             | Table
+:-------------------------:|:-------------------------:
+![](images/wk5Res.png)  |  ![](images/wk5Table.png)
+
+
+
+## Best Game {-}
+
+WBA 4 v 2 West Ham
+
+
+```{r highlights5, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+
+library(vembedr)
+embed_youtube("BuOTLX6GDbM")
+```
+
+* Favourite Manager for the chop, Tony Pulis, steers his team into top half of the table   
+
+Q. Which is more unusual, conceding 3 in three consecutive games, or 4 in 2?
+A.The former; 66 to 54 as I write
+
+Whatever, West Ham are clear leaders in both categories adding to both this week end
+
+  Conceding 3 x 3                   Conceding 4 x 2
+:-------------------------:|:-------------------------:
+![](images/wk5a.png)  |  ![](images/wk5b.png)
+
+
+
+## Biggest Upset {-}
+
+Crystal Palace 4 - 1 Stoke City
+
+Toss up with the Watford defeat of Man Utd but three of four games Stoke had come up against the current top 3
+in the division and Palace are generally poor at home. Stoke have now conceded in 15 consecutive games, a run
+only surpassed in PL history by Swindon and Leeds
+
+<img align="center" src="images/wk5d.png">
+
+
+
+## Chart of Week {-}
+
+One bright spark for West Ham has been the goal-scoring prowess of Antonio, especially in the air
+He has already scored 11 headed goals in just 31 games, many of them lining up at full back
+
+<img align="center" src="images/wk5c.png">
+
+The leader all-time is Alan Shearer with 46. Peter Crouch has beens stuck on 45 since May 2015 and is now usually an unused bench player (even when his team is four down)
+
+
+[Updated Interactives](https://mytinyshinys.shinyapps.io/plannualupdate/#r5)

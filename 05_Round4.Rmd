@@ -1,0 +1,53 @@
+# Round 4 {-}
+
+## Results {-}
+
+
+Results             | Table
+:-------------------------:|:-------------------------:
+![](images/wk4Res.png)  |  ![](images/wk4Table.png)
+
+
+
+## Best game {-}
+
+Manchester United 1 v 2 Manchester City
+
+
+```{r highlights4, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+
+library(vembedr)
+embed_youtube("NkxsgUj-xV8")
+```
+
+* A game pretty much decided before kick-off. Changing a 100% winning team by dropping Mata - who has 4 three-assist PL games to his credit - for Lingard - who has a career total of 3 - was just bizarre    
+
+* Both the starting lineups and the bench fees were the highest ever viewed for a Premier League game
+
+<img align="center" src="images/wk4b.png">
+
+
+
+## Biggest Upset {-}
+
+West Ham 2 - 4 Watford
+
+Particularly given that West Ham were two up at the 40 minute mark.     
+Having said that, West Ham do lead the premier League in number of times they have conceded 4 or more at home. This was the 23rd occurrence and the only points they have garnered in these games were in a 5-4 victory over Bradford in 2000 
+
+<img align="center" src="images/wk4c.png">
+
+
+
+## Chart of Week {-}
+
+Harry Kane reached the 50 goal mark with his first goal this season. Taking just 90 appearances, he is one of the quickest to do so but he started at a later age than many other prolific strikers
+
+<img align="center" src="images/wk4d.png">
+
+Only time will tell whether he will last better than Owen and Fowler - who were effectively finished soon after turning 30 - 
+or move abroad, admittedly a less-likely eventuality than Cristiano Ronaldo's fate
+
+
+[Updated Interactives](https://mytinyshinys.shinyapps.io/plannualupdate/#r4)

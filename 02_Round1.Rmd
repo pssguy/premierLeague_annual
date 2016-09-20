@@ -1,13 +1,15 @@
-# Round 1
+# (PART) Rounds {-}
 
-## Results
+# Round 1 {-}
+
+## Results {-}
 
 
 Results             | Table
 :-------------------------:|:-------------------------:
 ![](images/wk1Res.png)  |  ![](images/wk1Table.png)
 
-## Best game
+## Best game {-}
 
 Arsenal 3 v 4 Liverpool
 
@@ -24,14 +26,14 @@ in 10 succesive seasons, only the 39th player to have done so. He joins illumina
 
 <img align="center" src="images/wk1b.png">
 
-## Biggest Upset
+## Biggest Upset {-}
 
 Hull v Leicester
 
 Managerless and, apparantly rudderless, Hull upset the champions Leicester
 
 
-## Chart of Week
+## Chart of Week {-}
 
 "It's only the first game"
 
@@ -39,4 +41,6 @@ Except that in 14 of the previous 24 years the team leading after the first game
 
 <img align="center" src="images/wk1a.png">
 
-On the other hand, Bolton immediately after defeating QPR 4-0 (see above) went on a six game losing streak and now reside in Division 1 (3rd tier, if you are unfamiliaer with English counting)
+On the other hand, Bolton immediately after defeating QPR 4-0 (see above) went on a six game losing streak and now reside in Division 1 (3rd tier, if you are unfamiliar with English counting)
+
+[Updated Interactives](https://mytinyshinys.shinyapps.io/plannualupdate/#r1)

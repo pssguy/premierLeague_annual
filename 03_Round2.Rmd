@@ -1,19 +1,19 @@
-# Round 2
+# Round 2 {-}
 
-## Results
+## Results {-}
 
 Results             | Table
 :-------------------------:|:-------------------------:
 ![](images/wk2Res.png)  |  ![](images/wk2Table.png)
 
-## Best game
+## Best game {-}
 
 Stoke 1 v 4 Manchester City
 
 
 ```{r highlights2, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
 
-embed_youtube("zn61wxHhSV0")
+embed_youtube("Fpa5y1BWY2Q")
 ```
 
 * Last season, Man City won their first five encounters but for the rest of the campaign
@@ -25,7 +25,7 @@ markedly superior
 * Nolito scored 2 goals as a sub in only his second PL game. But he failed to upstage Aguero -  also scorer of a brace this week - who notched two in his very first appearance (as a sub) against Swansea five years ago
 
 
-## Biggest Upset
+## Biggest Upset {-}
 
 Burnley 2 v 0 Liverpool
 
@@ -33,9 +33,10 @@ The up and down performances that characterized last year's season beset Liverpo
 
 <img align="center" src="images/wk2b.png">
 
-## Chart of Week
+## Chart of Week {-}
 
 With Middlesboro replacing Newcastle, the North East maintain two teams in the tier one but they have never had more than one figure in the top ten of the Premier League
 
 <img align="center" src="images/wk2c.png">
 
+[Updated Interactives](https://mytinyshinys.shinyapps.io/plannualupdate/#r2)
