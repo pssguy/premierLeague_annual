@@ -9,7 +9,7 @@ Results             | Table
 :-------------------------:|:-------------------------:
 ![](images/wk1Res.png)  |  ![](images/wk1Table.png)
 
-## Best game {-}
+## Game of the Week {-}
 
 Arsenal 3 v 4 Liverpool
 

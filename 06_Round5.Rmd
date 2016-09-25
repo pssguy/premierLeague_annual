@@ -9,7 +9,7 @@ Results             | Table
 
 
 
-## Best Game {-}
+## Game of the Week {-}
 
 WBA 4 v 2 West Ham
 
@@ -23,12 +23,12 @@ embed_youtube("BuOTLX6GDbM")
 
 * Favourite Manager for the chop, Tony Pulis, steers his team into top half of the table   
 
-Q. Which is more unusual, conceding 3 in three consecutive games, or 4 in 2?
-A.The former; 66 to 54 as I write
+Q. Which is more unusual, conceding 3 in three consecutive games, or 4 in back to back matches?    
+A.The former; 66 to 54, as I write
 
-Whatever, West Ham are clear leaders in both categories adding to both this week end
+West Ham are clear 'winners' extending their lead in both categories this week end
 
-  Conceding 3 x 3                   Conceding 4 x 2
+Conceding 3 x 3             |  Conceding 4 x 2
 :-------------------------:|:-------------------------:
 ![](images/wk5a.png)  |  ![](images/wk5b.png)
 
@@ -39,8 +39,7 @@ Whatever, West Ham are clear leaders in both categories adding to both this week
 Crystal Palace 4 - 1 Stoke City
 
 Toss up with the Watford defeat of Man Utd but three of four games Stoke had come up against the current top 3
-in the division and Palace are generally poor at home. Stoke have now conceded in 15 consecutive games, a run
-only surpassed in PL history by Swindon and Leeds
+in the division and Palace are generally poor at home. Stoke have now conceded in a current league leading 15 consecutive games which is also their worst-ever in the Premier league
 
 <img align="center" src="images/wk5d.png">
 

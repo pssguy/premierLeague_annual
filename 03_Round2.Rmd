@@ -6,7 +6,7 @@ Results             | Table
 :-------------------------:|:-------------------------:
 ![](images/wk2Res.png)  |  ![](images/wk2Table.png)
 
-## Best game {-}
+## Game of the Week {-}
 
 Stoke 1 v 4 Manchester City
 
