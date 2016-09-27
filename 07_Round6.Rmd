@@ -14,20 +14,20 @@ Results             | Table
 Sunderland 2 v 3 Crystal Palace
 
 
-```{r highlights4, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+```{r highlights6, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
 
 
 library(vembedr)
-embed_youtube("v=Z9RjQml3x7w")
+embed_youtube("Z9RjQml3x7w")
 ```
 
-* Two teams unlikely to feature regularly but a
+* Two teams unlikely to feature regularly in this section but another exciting finale in a Palace game. They have now secured three points from games in which they have scored in injury time 
 
-* Palace score 9 goals in 3 consecutive games for first time in their Premier league history and are in highest position (7th) after 6 games
+* Palace score 9 goals in three consecutive games for first time in their Premier league history and are in their highest position (7th) after six games
 
 * Since Defoe joined Sunderland, he accounts for 35% of the team's goals. Only Kane(37%) at Tottenham has a higher proportion for clubs that have been in the top tier ever since then
 
-<img align="center" src="images/wk4b.png">
+<img align="center" src="images/wk6a.png">
 
 
 
@@ -35,16 +35,19 @@ embed_youtube("v=Z9RjQml3x7w")
 
 Arsenal 3 - 0 Chelsea
 
-Given the recent history between the clubs,
+With Chelsea unbeaten in the previous nine league head to head encounters this was something of a surprise, equalling their biggest ever triumph over their rivals in the Premier League
 
-<img align="center" src="images/wk4c.png">
+<img align="center" src="images/wk6b.png">
+
+However, as can be seen, Arsenal had an even longer period of dominance; at one stage going 19 games without a loss - although all but two were ties or single goal victories
 
 
 
 ## Chart of Week {-}
 
+Picking on West Ham  again, I know, but the turnaround from arguably their best-ever PL season is worth noting. Their fifth defeat has come after only six games, contrasting with the record 22 games it took to lose so many last campaign
 
-<img align="center" src="images/wk4d.png">
+<img align="center" src="images/wk6c.png">
 
 
 

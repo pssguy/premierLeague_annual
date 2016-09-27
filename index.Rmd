@@ -2,32 +2,50 @@
 title: "Premier League Annual"
 author: "Andrew Clark"
 # date: "July 28, 2016"
-output: bookdown::gitbook
+knit: "bookdown::render_book"
+# output:
+#   bookdown::gitbook:
+#    # lib_dir: assets
+#     config:
+#     toc:
+#       collapse: section  
+  # bookdown::pdf_book:
+  #   keep_tex: yes
+
+     
   
 site: bookdown::bookdown_site
 # cover-image: images/cover_fixed.png
 ---
 
-```{r libraries}
-
+```{r }
 library(vembedr)
 
 ```
-# Cover Image {-}
+
+
+
+
+# Placeholder Cover Image {-}
 
 ```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html')}
-# knitr::include_graphics('images/cover_fixed.png')
+ knitr::include_graphics('images/cover_fixed.png')
 ```
 
 # Introduction {-}
 
 
 This is an 'on the fly' annual based on the 2016/17 Premier League season, updated weekly with charts, tables, highlight videos and trivia related to the games played.
+
+Each chapter features static visualizations relevant to the games that week. Extended, fully-interactive and constantly updated versions can be found on the accompanying [dashboard site](https://mytinyshinys.shinyapps.io/plannualupdate/)
     
- It is a companion volume to the, interactive,
+Additional data is available at the
 [Premier League Web site](https://mytinyshinys.shinyapps.io/premierLeague/)
 
-All information is unofficial
+Most of the underlying data is unofficial, unguaranteed error-free and available for a million dollars.
+There is also likely to be use of James Curley's excellent [engsocccerdata](https://github.com/jalapic/engsoccerdata) and, of course, many packages produced by the R community, especially [bookdown](https://github.com/rstudio/bookdown)
+
+
 
 # Author {-}
 
