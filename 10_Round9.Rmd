@@ -1,0 +1,65 @@
+# Round 9 {-}
+
+## Results {-}
+
+
+Results             | Table
+:-------------------------:|:-------------------------:
+![](images/wk9Res.png)  |  ![](images/wk9Table.png)
+
+---
+
+## Game of the Week {-}
+
+#### Man. City 1 v 1 Southampton {- #scorelines}
+
+
+```{r highlights9, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+
+library(vembedr)
+embed_youtube("2sQy0Nzc0no")
+```
+    
+Another quality game where a draw was the only fair result    
+
+The 20 points with which Man City lead the league is the fewest for the top spot after 9 Premier League games since 2001/2. However, the 19 points for fifth-placed Spurs is the highest at the same stage - equalled only by the same club four years ago
+
+
+
+<!-- <img align="center" src="images/wk9a.png"> -->
+
+
+---
+
+## Biggest Upset {-}
+
+#### Chelsea 4 v 0 Man Utd {- #scorelines}
+
+First goal was conceded after 11 passes - not one of which started in Chelsea's half 
+
+Goals in the first minute are pretty rare, accounting for less than 0.5% of all goals
+
+ <img align="center" src="images/wk9b.png"> 
+
+
+
+
+
+---
+
+
+## Chart of Week {-}
+
+Coutinho scored his 11th goal with a shot outside the penalty area from open play. Since he first did that 
+the next closest in this cartegory, with seven each are Shelvey, Aguero and Toure    
+
+The chart shows all goals scored from long range, including direct free-kicks, where specialists like Redknapp and Beckham are prominent. Check out the link below for more options
+
+
+
+
+<img align="center" src="images/wk9c.png">
+
+
+[Updated Interactives](https://mytinyshinys.shinyapps.io/plannualupdate/#r8)

@@ -1,0 +1,60 @@
+# Round 7 {-}
+
+## Results {-}
+
+
+Results             | Table
+:-------------------------:|:-------------------------:
+![](images/wk7Res.png)  |  ![](images/wk7Table.png)
+
+
+
+## Game of the Week {-}
+
+Tottenham H 2 v 0 Man. City
+
+
+```{r highlights7, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+
+library(vembedr)
+embed_youtube("YYO6-zKrcmE")
+```
+    
+    
+* There have been 51 PL matches between the top two teams with Man City's loss evening up the count at 19 wins and losses apiece.    
+ Over the past six seasons, at least one of the Manchester clubs has featued in all but two of the sixteen encounters      
+
+
+<img align="center" src="images/wk7a.png">
+
+* In the most recent 17 games which John Stones has started, only two have resulted in clean sheets for his team
+
+* Man City have  managed to deny only one team, Bournemouth, a goal. Of teams that have topped the league after seven games, only Newcastle, in 1994/5, have not had at least two
+
+
+
+## Biggest Upset {-}
+
+Man. Utd. 1 - 1 Stoke City
+
+With Blind taking three corners which resulted in goals last time out - matching or bettering their ANNUAL totals in four previous campaigns - Rooney took over responsibility when coming on, with predictable results
+
+<img align="center" src="images/wk7b.png">
+
+2002/3 is quite the surprise for both corners and direct free-kicks considering that Beckham was a regular
+
+
+
+
+## Chart of Week {-}
+
+Jon Moss must have been pretty pissed at missing his Friday night out as a late replacement for
+Mark Clattenburg for the Everton v Palace game.   He doled out a season-leading 11 cards in a fairly innocuous encounter: by contrast, in a legs-flying Sunderland v West Brom clash, Stuart Attwell saw fit to book just one on each side
+
+<img align="center" src="images/wk7c.png">
+
+
+
+
+[Updated Interactives](https://mytinyshinys.shinyapps.io/plannualupdate/#r7)

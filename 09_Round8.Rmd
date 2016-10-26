@@ -1,0 +1,58 @@
+# Round 8 {-}
+
+## Results {-}
+
+
+Results             | Table
+:-------------------------:|:-------------------------:
+![](images/wk8Res.png)  |  ![](images/wk8Table.png)
+
+
+
+## Game of the Week {-}
+
+Man. City 1 v 1 Everton
+
+
+```{r highlights8, echo=FALSE, warning=FALSE, message=FALSE, tidy= TRUE, error=FALSE}
+
+
+library(vembedr)
+embed_youtube("pru6SUS9GsU")
+```
+    
+            
+In the end, 1st v 5th out-classed 4th(Liverpool) v 6th(Man. Utd.) pretty comprehensively
+
+
+These two teams have been closely matched over the years. In all league encounters, going back to 1899, City edge it in wins 63-61-42 but Everton have tended to finish higher in the divisions
+
+<img align="center" src="images/wk8a.png">
+
+
+
+
+## Biggest Upset {-}
+
+Only in terms of the scoreline as Bournemouth recorded their first six goal haul versus Hull, becoming the 24th of the 47 all-time PL teams to do so.
+Somewhat surprisingly, 26 sides have performed the feat since it was last accomplished by Manchester United more than 5 seasons ago
+
+<img align="center" src="images/wk8c.png">
+
+
+
+
+
+
+
+
+## Chart of Week {-}
+
+Bournemouth v Hull was the 819th different matchup in the PL. Games in just one season is the most likely combination
+Liverpool have already played four other ever-presents this season with just Everton to come
+
+
+<img align="center" src="images/wk8b.png">
+
+
+[Updated Interactives](https://mytinyshinys.shinyapps.io/plannualupdate/#r8)

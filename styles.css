@@ -1,0 +1,16 @@
+#scorelines h4 { /* need to put h4 in otherwise all text in that section gets colored blue */
+   color: blue;
+}
+
+.emphasized {
+   font-size: 1.2em;
+}
+
+/* this works says not to use h4 in warning but that is incorrect */
+#header h4.date {
+  margin:1.5em;
+}
+
+#header h4.author {
+ color: blue;
+}

@@ -1,8 +1,9 @@
 ---
 title: "Premier League Annual"
 author: "Andrew Clark"
-# date: "July 28, 2016"
+date: "July 28, 2016"
 knit: "bookdown::render_book"
+
 # output:
 #   bookdown::gitbook:
 #    # lib_dir: assets
